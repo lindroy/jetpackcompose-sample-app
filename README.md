@@ -1,4 +1,4 @@
-# sample-app
+# Jetpack Compose 从入门到实战 示例代码
 
 ### 章节 2：构建 UI 视图
 
